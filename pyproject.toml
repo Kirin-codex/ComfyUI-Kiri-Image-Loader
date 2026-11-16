@@ -1,5 +1,5 @@
 [project]
-name = "kiri-image-loader"
+name = "ComfyUI-Kiri-Image-Loader"
 version = "1.0.0"
 description = "Kiri Image Loader for ComfyUI"
 dynamic = ["dependencies"]
