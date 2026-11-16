@@ -11,5 +11,5 @@ dependencies = { file = ["requirements.txt"] }
 Repository = "https://github.com/Kirin-codex/ComfyUI-Kiri-Image-Loader"
 
 [tool.comfy]
-PublisherId = "kirin"
+PublisherId = "Kiri-Nodes"
 DisplayName = "Kiri Image Loader"
