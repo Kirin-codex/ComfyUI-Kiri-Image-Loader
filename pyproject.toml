@@ -1,0 +1,16 @@
+[project]
+name = "kiri-image-loader"
+version = "0.5.21"
+description = "A compact ComfyUI image loader with A/B comparison, graph-aware metadata, and optional PNG saving."
+requires-python = ">=3.10"
+license = { file = "LICENSE.txt" }
+dependencies = [
+    "send2trash>=1.8.3",
+]
+
+[project.urls]
+Repository = "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+
+[tool.comfy]
+PublisherId = "REPLACE_WITH_COMFY_REGISTRY_PUBLISHER_ID"
+DisplayName = "Kiri Image Loader"
