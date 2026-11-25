@@ -9,8 +9,8 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPOSITORY"
+Repository = "https://github.com/Kirin-codex/ComfyUI-Kiri-Image-Loader"
 
 [tool.comfy]
-PublisherId = "REPLACE_WITH_COMFY_REGISTRY_PUBLISHER_ID"
+PublisherId = "kirin"
 DisplayName = "Kiri Image Loader"
